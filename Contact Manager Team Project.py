@@ -15,7 +15,7 @@ def main():
         elif
             delete_contact()
         else
-            display_contacts()
+            display_contacts()    
     
 #End of main()
 
